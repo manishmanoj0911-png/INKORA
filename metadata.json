@@ -1,0 +1,6 @@
+{
+  "name": "Inkora",
+  "description": "Write. Create. Remember. A powerful, offline-first notes app with rich text, handwriting, paper backgrounds, local Room storage, and Firebase sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
